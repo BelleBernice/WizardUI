@@ -2,7 +2,8 @@
 #app-mount .guilds__5e434,
 .sidebarList__5e434,
 .page__5e434,
-.outerContainer_e44912 .container__8a031.modal_e44912 {
+.outerContainer_e44912 .container__8a031.modal_e44912,
+.menu_c1e9c4 {
     backdrop-filter: blur(var(--VitrumBlur));
 }
 
