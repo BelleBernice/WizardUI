@@ -7,7 +7,7 @@
 }
 
 :root {
-    --version: "2026-43"; /* 0-00 */
+    --version: "2026-44"; /* 0-00 */
     --currentVersion: "WizardUI v" var(--version);
     /* MAIN VARIABLES */
     --Watermark: "- WizardUI v" var(--version);
@@ -5665,6 +5665,7 @@ div.selected-3veCBZ:hover .name__20a53 {
     background-color: var(--bg-chat-elements);
 }
 
+.fill_f7e69e,
 .fill_b83360,
 .callAvatarMask__f910d0>foreignObject,
 .controlButton__1405b3>svg>foreignObject {
